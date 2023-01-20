@@ -1,0 +1,3 @@
+[submodule "urho3d"]
+	path = urho3d
+	url = https://github.com/urho3d/urho3d.git
